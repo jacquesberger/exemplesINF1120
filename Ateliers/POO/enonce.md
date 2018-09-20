@@ -52,7 +52,7 @@ hérite de la nouvelle classe `Forme`. Dessinez le diagramme de classes.
 6. Faites un tableau d'instances de la classe `Forme` et calculez l'aire de
 toutes les formes à l'aide d'une boucle.
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #6](Solutions/)
+<!-- * [Exercices #1 à #6](Solutions/) -->

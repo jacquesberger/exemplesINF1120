@@ -18,8 +18,8 @@ Exercices
 
 2. Permuter les valeurs de deux variables de type int.
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercice #1](HelloWorld.java)
-* [Exercice #2](Permutation.java)
+<!-- * [Exercice #1](HelloWorld.java) -->
+<!-- * [Exercice #2](Permutation.java) -->

@@ -43,7 +43,7 @@ Exercices
    retourne la première personne qui aime les chats. Retourner `null` s'il n'y
    en a pas.
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #7](Solutions/)
+<!-- * [Exercices #1 à #7](Solutions/) -->

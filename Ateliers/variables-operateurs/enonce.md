@@ -47,7 +47,7 @@ Exercices
    Affichez ces caractères sur la même ligne, dans cet ordre. Comment
    expliquez-vous ce résultat jaune et électrisant?
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à 9](Solution.java)
+<!-- * [Exercices #1 à 9](Solution.java) -->

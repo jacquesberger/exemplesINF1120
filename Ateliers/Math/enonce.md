@@ -61,7 +61,7 @@ Exercices
     y = 3.0
     ```
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #4](Solutions.java)
+<!-- * [Exercices #1 à #4](Solutions.java) -->

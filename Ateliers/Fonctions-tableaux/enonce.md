@@ -60,7 +60,7 @@ Exercices
     }
     ```
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #3](Solutions.java)
+<!-- * [Exercices #1 à #3](Solutions.java) -->

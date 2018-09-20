@@ -63,7 +63,7 @@ Exercices
    Si l'opération saisie n'existe pas, le programme doit
    afficher `Désolé, cette opération n'est pas supportée`.
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #4](Solutions.java)
+<!-- * [Exercices #1 à #4](Solutions.java) -->

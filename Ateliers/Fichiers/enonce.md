@@ -38,7 +38,7 @@ Exercices
     cinq
     ```
 
-Solutions
----------
+<!-- Solutions -->
+<!-- --------- -->
 
-* [Exercices #1 à #3](Solutions/)
+<!-- * [Exercices #1 à #3](Solutions/) -->
