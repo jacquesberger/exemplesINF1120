@@ -23,18 +23,15 @@
 // 
 // For more information, please refer to <http://unlicense.org/>
 
-import java.util.*;
-
 class Solutions {
     public static void main(String[] args) {
     
         // Exercice 1
         /*
-        Scanner clavier = new Scanner(System.in);
         System.out.print("Entrez x: ");
-        double x = clavier.nextDouble();
+        double x = Clavier.lireDouble();
         System.out.print("Entrez y: ");
-        double y = clavier.nextDouble();
+        double y = Clavier.lireDouble();
         System.out.println(String.format("x + y = %f", x + y));
         System.out.println(String.format("x - y = %f", x - y));
         System.out.println(String.format("x * y = %f", x * y));
@@ -43,11 +40,10 @@ class Solutions {
     
         // Exercice 2
         /*
-        Scanner clavier = new Scanner(System.in);
         System.out.print("Entrez x: ");
-        double x = clavier.nextDouble();
+        double x = Clavier.lireDouble();
         System.out.print("Entrez y: ");
-        double y = clavier.nextDouble();
+        double y = Clavier.lireDouble();
         System.out.println(String.format("x + y = %+,10.2f", x + y));
         System.out.println(String.format("x - y = %+,10.2f", x - y));
         System.out.println(String.format("x * y = %+,10.2f", x * y));
@@ -56,9 +52,8 @@ class Solutions {
     
         // Exercice 3
         /*
-        Scanner clavier = new Scanner(System.in);
         System.out.print("Entrez le nom du mois: ");
-        String mois = clavier.nextLine();
+        String mois = Clavier.lireString();
         int nbJours = 0;
         switch (mois) {
             case "janvier":
@@ -87,9 +82,8 @@ class Solutions {
     
         // Exercice 4
         /*
-        Scanner clavier = new Scanner(System.in);
         System.out.print("Entrez une année: ");
-        int annee = clavier.nextInt();
+        int annee = Clavier.lireInt();
         boolean bissextile = false;
         if (annee % 4 != 0) {
             bissextile = false;
@@ -109,9 +103,8 @@ class Solutions {
 
         // Exercice 5
         /*
-        Scanner clavier = new Scanner(System.in);
         System.out.print("Entrez le nom du mois: ");
-        String mois = clavier.nextLine();
+        String mois = Clavier.lireString();
         int nbJours = 0;
         switch (mois) {
             case "janvier":
@@ -131,7 +124,7 @@ class Solutions {
                 break;
             case "février":
                 System.out.println("Quelle année : ");
-                String anneeBrute = clavier.nextLine();
+                String anneeBrute = Clavier.lireString();
                 int annee = Integer.parseInt(anneeBrute);
                 boolean bissextile = false;
                 if (annee % 4 != 0) {
@@ -153,6 +146,6 @@ class Solutions {
                 break;
         }
         System.out.println(nbJours);
-        */    
+        */
   }
 }
