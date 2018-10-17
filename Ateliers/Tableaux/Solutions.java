@@ -24,26 +24,6 @@
 // For more information, please refer to <http://unlicense.org/>
 
 class Solutions {
-    public static int min(int a, int b) {
-        if (a < b) {
-            return a;
-        } else {
-            return b;
-        }
-    }
-
-    public static int min(int a, int b, int c) {
-        return min(min(a, b), c);
-    }
-
-    public static int absolue(int a) {
-        if (a < 0) {
-            return a * -1;
-        } else {
-            return a;
-        }
-    }
-
     // attention: ne fonctionne que pour les tableaux avec au moins une valeur...
     public static int valeurMaximale(int[] tableau) {
         int max = tableau[0];

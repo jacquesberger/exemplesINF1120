@@ -16,23 +16,7 @@ Objectifs
 Exercices
 ---------
 
-1. Sans utiliser le module `Math`, complétez les fonctions suivantes:
-
-    ```java
-    public static int min (int a, int b) {
-        // Retourne la valeur minimale entre a et b.
-    }
-
-    public static int min (int a, int b, int c) {
-        // Retourne la valeur minimale entre a, b et c.
-    }
-
-    public static int absolue (int a) {
-        // Retourne la valeur absolue de a.
-    }
-    ```
-
-2. Complétez les fonctions suivantes:
+1. Complétez les fonctions suivantes:
 
     ```java
     public static int valeurMaximale (int[] tableau) {
@@ -63,4 +47,4 @@ Exercices
 <!-- Solutions -->
 <!-- --------- -->
 
-<!-- * [Exercices #1 à #3](Solutions.java) -->
+<!-- * [Exercices](Solutions.java) -->
