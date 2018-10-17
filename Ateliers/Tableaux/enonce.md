@@ -1,17 +1,14 @@
-Fonctions et tableaux
-=====================
+Tableaux
+========
 
-Les fonctions sont nécessaires à la maintenabilité du code source. Elles
-permettent de réutiliser des bouts de code et de simplifier des processus
-complexes. Les tableaux sont une structure courante dans la majorité des
-langages de programmation. Maîtriser ces deux concepts permet de simplifier
+Les tableaux sont une structure courante dans la majorité des
+langages de programmation. Maîtriser ce concept permet de simplifier
 grandement la rédaction des logiciels.
 
 Objectifs
 ---------
 
 * Initialiser et manipuler des tableaux de types natifs.
-* Créer des fonctions.
 
 Exercices
 ---------
