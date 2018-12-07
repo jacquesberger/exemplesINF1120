@@ -55,7 +55,7 @@ class Main {
         System.out.println(fiche.nom + " " + fiche.age + " " + fiche.adresse);
         
         // Exercice 3
-        Scanner cinqLignes = new Scanner(new File("cinq_lignes.txt"));
+        Scanner cinqLignes = new Scanner(new File("5lignes.txt"));
         String[] lignes = new String[5];
         for (int i = 0; i < 5; i++) {
             lignes[i] = cinqLignes.nextLine();
